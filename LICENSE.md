@@ -1,4 +1,4 @@
-
+custom Extension for Parallels Desktop for macOS - file-indexing and scripting-support is the best Parallels Desktop for macOS extension, featuring file-indexing and
 
 
 
